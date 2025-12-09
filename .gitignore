@@ -1,0 +1,14 @@
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.sqlite
+*.db
+messages.db
+tg_assistant_session*
+.env
+telebot_echo/.env
+telebot_echo/__pycache__/
+session.session

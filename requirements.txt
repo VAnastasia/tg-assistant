@@ -1,0 +1,2 @@
+telethon==1.35.0
+aiosqlite==0.20.0
